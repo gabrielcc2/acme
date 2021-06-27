@@ -11,7 +11,7 @@ dm-sonnet==2.0.0
 dm-tree==0.1.6
 jax==0.2.14
 jaxlib==0.1.67
-keras-nightly==2.6.0.dev2021062100
+keras-nightly==2.5.0.dev
 optax==0.0.8
 pytype==2021.6.17
 pytest-xdist==2.3.0
